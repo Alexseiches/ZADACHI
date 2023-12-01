@@ -1,0 +1,14 @@
+/Users/alexseich/Desktop/Zadachi/Zadacha43/bin/Debug/net7.0/Zadacha43
+/Users/alexseich/Desktop/Zadachi/Zadacha43/bin/Debug/net7.0/Zadacha43.deps.json
+/Users/alexseich/Desktop/Zadachi/Zadacha43/bin/Debug/net7.0/Zadacha43.runtimeconfig.json
+/Users/alexseich/Desktop/Zadachi/Zadacha43/bin/Debug/net7.0/Zadacha43.dll
+/Users/alexseich/Desktop/Zadachi/Zadacha43/bin/Debug/net7.0/Zadacha43.pdb
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.AssemblyInfoInputs.cache
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.AssemblyInfo.cs
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.csproj.CoreCompileInputs.cache
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.dll
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/refint/Zadacha43.dll
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.pdb
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/Zadacha43.genruntimeconfig.cache
+/Users/alexseich/Desktop/Zadachi/Zadacha43/obj/Debug/net7.0/ref/Zadacha43.dll
